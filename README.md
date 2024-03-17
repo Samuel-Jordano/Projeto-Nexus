@@ -24,6 +24,4 @@ A Nexus Company é uma startup de tecnologia da informação focada em desenvolv
 
 ### Suporte Técnico: 
 
-### Marketing e Vendas: 
-
 Este arquivo README.md fornece uma visão geral da Nexus Company. Conforme a empresa cresça, informações sobre os serviços oferecidos, tecnologias utilizadas e a equipe serão adicionadas a este documento.
