@@ -1,29 +1,29 @@
 # README.md
 
-## <span style="color:blue">Nome da Empresa:</span> <span style="color:orange">Nexus Company</span>
+## Nome da Empresa: Nexus Company ⚙️
 
-## <span style="color:blue">Ramo da Empresa:</span>
+## Ramo da Empresa:
 A Nexus Company é uma startup de tecnologia da informação focada em desenvolvimento de software e consultoria em TI.
 
-## <span style="color:blue">Serviços Oferecidos e Tecnologias Utilizadas:</span>
-### <span style="color:orange">Serviços:</span>
+## Serviços Oferecidos e Tecnologias Utilizadas:
+### Serviços: 💼
 
-### <span style="color:orange">Tecnologias Utilizadas:</span>
-- Linguagens de Programação:
-- Frameworks:
-- Banco de Dados:
-- Ferramentas de Controle de Versão:
-- Metodologias Ágeis:
+### Tecnologias Utilizadas:
+- Linguagens de Programação: Python 🐍, JavaScript 🌐, Java ☕
+- Frameworks: Django 🚀, React.js ⚛️, Spring Boot 🌱
+- Banco de Dados: PostgreSQL 🐘, MongoDB 🍃, MySQL 🗄️
+- Ferramentas de Controle de Versão: Git 🐙, SVN 📦
+- Metodologias Ágeis: Scrum 📈, Kanban 📊
 
-## <span style="color:blue">Equipe:</span>
-### <span style="color:orange">Gerência:</span>
+## Equipe:
+### Gerência: 
 
-### <span style="color:orange">Desenvolvimento:</span>
+### Desenvolvimento: 
 
-### <span style="color:orange">Consultoria:</span>
+### Consultoria: 
 
-### <span style="color:orange">Suporte Técnico:</span>
+### Suporte Técnico: 
 
-### <span style="color:orange">Marketing e Vendas:</span>
+### Marketing e Vendas: 
 
 Este arquivo README.md fornece uma visão geral da Nexus Company. Conforme a empresa cresça, informações sobre os serviços oferecidos, tecnologias utilizadas e a equipe serão adicionadas a este documento.
